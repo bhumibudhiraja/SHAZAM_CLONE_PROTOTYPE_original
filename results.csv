@@ -1,0 +1,4 @@
+Query Clip,Predicted Song,Votes,Confidence
+query.mp3,song.mp3,2000,GOOD
+query5.mp3,song3.mp3,2000,GOOD
+query6.mp3,song4.mp3,2000,GOOD
